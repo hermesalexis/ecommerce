@@ -1,0 +1,25 @@
+*{box-sizing: border-box;}
+
+nav.navbar{border-radius: 0;}
+
+#icon-car{margin-right: 5px;}
+
+#miniaturas{margin-top: 20px;}
+
+.btn-mini,#agotado{margin-right: 5px;}
+
+
+
+@media(max-width:992px ){
+  #home-derecha-top{
+  	margin-top: 20px;
+  	margin-bottom: 20px;
+  }
+}
+
+@media(max-width:767px){
+  .btn-mini{
+   margin-bottom: 10px;
+  }
+
+}
